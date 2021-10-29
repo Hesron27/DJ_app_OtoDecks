@@ -5,3 +5,8 @@ For the code to run, one needs to install the JUCE Framework library together wi
 
 Further information on how to install and setup the JUCE Framework may be found in the following link.
 https://docs.juce.com/master/tutorial_new_projucer_project.html
+
+
+Preview of the app:
+
+![OtoDecks Screenshot](https://github.com/Hesron27/DJ_app_OtoDecks/blob/main/OtoDecksScreenshot.jpg?raw=true)
